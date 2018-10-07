@@ -7,3 +7,9 @@ Tested commands:
 ```
 $ git push <hash>
 ```
+
+Example:
+
+```
+$ git push 210000e
+```
