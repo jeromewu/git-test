@@ -1,2 +1,9 @@
 # git-test
-A repo for testing git commands
+
+Tested commands:
+
+- How to push only commits before specific commit?
+
+```
+$ git push <hash>
+```
