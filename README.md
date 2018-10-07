@@ -5,11 +5,11 @@ Tested commands:
 - How to push only commits before specific commit?
 
 ```
-$ git push <hash>
+$ git push <hash>:<branch>
 ```
 
 Example:
 
 ```
-$ git push 210000e
+$ git push 210000e:develop
 ```
